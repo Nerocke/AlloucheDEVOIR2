@@ -2,6 +2,7 @@ package Entities.Exo2;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
+import java.util.List;
 
 public class Formation
 {
@@ -29,6 +30,13 @@ public class Formation
     {
         // A compléter ici
 
+        int present;
+        if ()
+
+
+
+
+
         return 0;
     }
 
@@ -39,6 +47,14 @@ public class Formation
     public double CalculerFraisRemboursementKilometriques()
     {
         // A compléter ici
+
+        if is
+
+
+
+
+
+
 
         return 0;
     }
